@@ -1,0 +1,11 @@
+
+ion-button[color="dark"]{
+    transform: scale(1);
+    text-transform: capitalize;
+}
+ion-content{
+    --background:var(--ion-color-success)
+}
+ion-button{
+    border-radius: 5%;
+}

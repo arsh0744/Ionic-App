@@ -25,6 +25,9 @@
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
 
-body{
-    background: yellow;
+.flex-center{
+    height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
 }
